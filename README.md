@@ -1,4 +1,4 @@
-# Postgres-SQL-database-creator
+# Postgres SQL database creator
 A PHP script that connects to a postgres SQL database and runs "create table" as well as "insert" statements.
 
 Creates a postgres SQL database based on a model I have designed (UML Diagram, UML Notation) and fills each table with 777 rows. The contents of the tables are random. 
