@@ -4,6 +4,7 @@ A PHP script that connects to a postgres SQL database and runs "create table" as
 Creates a postgres SQL database based on a model I have designed (UML Diagram, UML Notation) and fills each table with 777 rows. The contents of the tables are random. 
 
 Includes attributes of [type](https://www.postgresql.org/docs/8.4/static/datatype.html) integer, varchar, date, float, xml.
+<br><br>
 
 ![UML model](scr/uml.jpg?raw=true "UML model")
 <p align="center">UML model</p>
